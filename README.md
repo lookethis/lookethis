@@ -1,4 +1,14 @@
-### Hi there 👋
+### lookethis의 작은 깃허브입니다 👋
+
+### 🌱 이 깃허브는?
+: lookethis의 코드가 있습니다. 코딩 연습, 실습(웹페이지 등)과 생성 과정을 올립니다
+
+### 🌱 My blog (https://velog.io/@ibosio)
+: 공부한 내용(코드가 아닌 것들)을 올립니다. 깃허브가 더 익숙해지면 블로그와 활발한 교류가 일어날 것입니다.
+: js 공부 내용은 기본을 싹 보고 난 뒤 올릴 것입니다(23년 2월 말쯤)
+
+### 🌱 깃허브 / 블로그 작성 목표
+: 내가 아는 것들, 한 것들을 깔끔하게 버전관리하며 공개한다
 
 <!--
 **lookethis/lookethis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
