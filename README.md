@@ -20,7 +20,7 @@
 #### 💡Tools💡
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
 
-#### 💡Tools💡
+#### 💡Most Used💡
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookethis&layout=compact">
 
 
