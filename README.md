@@ -1,19 +1,28 @@
-## lookethis의 작은 깃허브입니다 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=97DBAE&height=260&section=header&text=lookethisGithub&fontSize=70&fontColor=ffffff" />
 
-### 🌱 이 깃허브는? 🌱
-코딩 연습, 실습(웹페이지 등)과 생성 과정을 올립니다
+
+
+##  🐇 This Github is 
+코딩 연습, 실습(웹페이지 등)과 생성 과정 게시 
+<br>
 <br>
 
-### 🐇 My blog 🐇 
-공부한 내용(코드가 아닌 것들)을 올립니다. 깃허브가 더 익숙해지면 블로그와 활발한 교류가 일어날 것입니다.
-<a href="https://velog.io/@ibosio"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+##  🐇 Blog  
+<a href="https://velog.io/@ibosio"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+<br>
 <br>
 
-### 🐇 깃허브 / 블로그 작성 목표 🐇
-내가 아는 것들, 한 것들을 깔끔하게 버전관리하며 공개한다
+##  🐇 Stack
 
-### 🐇 naming 🐇
--> 변수 및 함수 및 태그명: snake_case (뒷 단어가 2글자 이하인 경우 camelCase), class 명: camelCase
+#### 💡Platforms & Languages💡
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/bulma-00D1B2?style=flat&logo=bulma&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
+
+#### 💡Tools💡
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+
+#### 💡Tools💡
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookethis&layout=compact">
+
 
 <!--
 **lookethis/lookethis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
