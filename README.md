@@ -7,10 +7,6 @@
 <br>
 <br>
 
-##  🐇 Blog  
-<a href="https://velog.io/@ibosio"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-<br>
-<br>
 
 ##  🐇 Stack
 
@@ -22,6 +18,10 @@
 
 #### 💡Most Used💡
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookethis&layout=compact">
+<br>
+
+##  🐇 Blog  
+<a href="https://velog.io/@ibosio"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 <!--
